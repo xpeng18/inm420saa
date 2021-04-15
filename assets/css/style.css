@@ -1,0 +1,29 @@
+body {   
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+    text-align: center;
+}
+
+div {
+    margin-top: 50px;
+    flex: auto;
+    text-align: center;
+}
+span, h2 {
+    color: black;
+}
+h2 {
+    font-size: 72px;
+}
+span {
+    font-size: 46px;
+}
+
+button {
+
+    width: 80px;
+    height: 25px;
+    outline: none;
+    background-color: #fff;
+}
